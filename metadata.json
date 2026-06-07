@@ -1,0 +1,6 @@
+{
+  "name": "zhouyu-attendance-system",
+  "description": "Zhou Yu Attendance system for dynamic roster management, roll-calls, group segmentation, and real-time statistics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
